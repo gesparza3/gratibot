@@ -10,6 +10,6 @@ metadata:
     - javascript
     - botkit
 spec:
-  type: chatbot
+  type: service
   lifecycle: production
   owner: liatrio
